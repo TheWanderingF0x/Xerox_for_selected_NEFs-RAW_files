@@ -1,4 +1,7 @@
 # Xerox_for_selected_NEFs-RAW_files
-A script with a stable interface which copy the RAW photos from a general folder to a designated one by user, based on pre selected JPGs which are located somewhere on the user computer.
+
+The scope of this Python based app is to make the job easier for photographs which like to select their photos by choosing first the JPGs.
+
+At the moment the main issue is that I cannot build a stable exe.
 
 *This will be populated soon!*
